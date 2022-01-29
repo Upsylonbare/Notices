@@ -1,18 +1,18 @@
 # Windows Tips
 
-Bonjour à tous, ce readme a pour but de vous partager les outils que j'utilise au quotidien sur W10 pour améliorer l'expérience utilisateur:
+Hello everyone, this readme aims to share with you the tools I use on a daily basis on W10 to improve the user experience:
 
-#### Outil n°1
+#### Tool n°1
 
 ![PowerToysLogo](Ressources/PowerToysLogo.png)
 
-[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) est une application open source qui à l'aide de raccourcis clavier lance des add-ons windows qui s'intègre parfaitement à l'environnement W10 et qui permettent d'améliorer l'expérience utilisateur.
+[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) s an open source application that uses keyboard shortcuts to launch windows add-ons that integrate seamlessly with the W10 environment and enhance the user experience.
 
-Par exemple voici la barre "PowerRun" qui permet d'accéder rapidement à des applications, des workspaces visual studio code, des services windows: 
+For example, here is the "PowerRun" bar which allows quick access to applications, visual studio code workspaces, windows services, with just alt + space shortcut: 
 
 ![image-20210901193126519](Ressources/PowerRunExemple.png)
 
-Voici le lien du github où vous pourrez découvrir les nombreux autres outils :
+Here is the link to the github where you can discover the many other tools of PowerToys:
 
 https://github.com/microsoft/PowerToys
 
@@ -20,5 +20,9 @@ https://github.com/microsoft/PowerToys
 
 ![image-20210901194026093](Ressources/SearchDeflectorLogo.png)
 
-[Search Deflector](https://github.com/spikespaz/search-deflector/blob/release/README.md) est un outil développé par [Jacob Birkett](https://github.com/spikespaz) qui permet de **détourner** les **requêtes internet** passée par **cortana** ou par la **barre de recherche W10** vers votre **navigateur internet favori** armé de votre **moteur de recherche favori.**
+[Search Deflector](https://github.com/spikespaz/search-deflector) is a tool developed by [Jacob Birkett](https://github.com/spikespaz) that allows you to **divert** the **internet queries** made by **cortana** or the **W10 search bar** to your **favorite web browser** armed with your **favorite search engine.**
+
+Link :
+
+https://github.com/spikespaz/search-deflector
 
