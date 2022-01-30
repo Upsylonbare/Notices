@@ -16,7 +16,7 @@ Here is the link to the github where you can discover the many other tools of Po
 
 https://github.com/microsoft/PowerToys
 
-#### Outil n°2
+#### Tool n°2
 
 ![image-20210901194026093](Ressources/SearchDeflectorLogo.png)
 
@@ -25,4 +25,6 @@ https://github.com/microsoft/PowerToys
 Link :
 
 https://github.com/spikespaz/search-deflector
+
+
 
